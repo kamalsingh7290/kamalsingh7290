@@ -10,7 +10,9 @@
 
 
 <!-- TODO: Add last video link -->
-<html style="color:red;">
+<html>
+ <span style='Color:#c5f015;'> I'm a Son, BroTher, Full Stack Web Developer and App Developer.</span>
+
 - 🧑‍💻 I’m currently Working with HiberNate and SPring BOOt 
 - 💻 LEarning Andriod aPP Development
 - 🪟 HiGhLy inTRestEd in REtrofit AnD VollEY FRamEwork
