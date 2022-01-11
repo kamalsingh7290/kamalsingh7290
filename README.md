@@ -23,8 +23,7 @@
 ![kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalsingh7290&theme=calm&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalsingh7290&theme=calm&layout=compact)](https://github.com/kamalsingh7290/)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-#### Top Technologies
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kamalsingh7290&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)#### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
