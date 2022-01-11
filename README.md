@@ -5,7 +5,7 @@
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-```
+
 
 # <span style='Color:#c5f015;'> I'm KAMAL SINGH a Full Stack Web Developer and App Developer.</span>
 ## I SPenD moST Of thE timE iN coDInG And CreaTINg outStanDING UI.  
