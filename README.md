@@ -10,8 +10,8 @@
 
 
 <!-- TODO: Add last video link -->
-```diff
- @@ 🧑‍💻 I’m currently Working with HiberNate and SPring BOOt @@
+<html style="color:red;">
+- 🧑‍💻 I’m currently Working with HiberNate and SPring BOOt 
 - 💻 LEarning Andriod aPP Development
 - 🪟 HiGhLy inTRestEd in REtrofit AnD VollEY FRamEwork
 - 🤔 I’m LooKing FOr HelP In ANGUlarJS ANd ReacTJS
@@ -19,7 +19,9 @@
 - 📫 How to reach me: kamalsingh7290@gmail.com,kamal.singh1998@gmail.com
 - 😄 Pronouns: Creater, KAmal, LotUS, Developer
 - ⚡ Fun fact: I play games and go to the GYM very often.
-```
+ 
+ </html>
+ 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
