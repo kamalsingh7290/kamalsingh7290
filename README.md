@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I play games and go to the GYM very often.
 ## PortFolio Link : `https://kamalsingh7290.github.io/` [Here](https://kamalsingh7290.github.io/)
  ### Languages and Tools:
-[![AngularJS Badge](https://img.shields.io/badge/-AngularJS-red?style=for-the-badge&labelColor=yellow&logo=kamal&logoColor=grey)](#)
+[![AngularJS Badge](https://img.shields.io/badge/-AngularJS-red?style=for-the-badge&labelColor=yellow&logo=AngularJs&logoColor=grey)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Andriod Badge](https://img.shields.io/badge/-Andriod-green?style=for-the-badge&labelColor=black&logo=Andriod&logoColor=green)](#)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
