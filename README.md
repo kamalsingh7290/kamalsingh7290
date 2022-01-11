@@ -3,10 +3,10 @@
 I'm KAMAL SINGH a Full Stack Web Developer and App Developer. I SPenD moST Of thE timE iN coDInG And CreaTINg outStanDING UI.  
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-kamal_singh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@kamalsi50113394)](https://twitter.com/@kamalsi50113394) 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-singh-07090421b/)
-[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis)
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Kamal_Singh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@kamalsi50113394)](https://twitter.com/@kamalsi50113394) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kamal_Singh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-singh-07090421b/)
+[![Mail Badge](https://img.shields.io/badge/-@Kamal_Singh-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/kamalsng99)
+[![Mail Badge](https://img.shields.io/badge/-Kamal_Singh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kamalsingh7290@gmail.com)
 
 
 <!-- TODO: Add last video link -->
