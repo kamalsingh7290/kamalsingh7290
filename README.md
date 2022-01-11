@@ -20,6 +20,9 @@
 - 😄 Pronouns: Creater, KAmal, LotUS, Developer
 - ⚡ Fun fact: I play games and go to the GYM very often.
 ## PortFolio Link : `https://kamalsingh7290.github.io/` [Here](https://kamalsingh7290.github.io/)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamal_Singh&theme=calm&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amantiwari8861&theme=calm&layout=compact)](https://github.com/amantiwari8861/)
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
