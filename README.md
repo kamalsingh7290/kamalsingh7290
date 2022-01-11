@@ -22,8 +22,7 @@
 ## PortFolio Link : `https://kamalsingh7290.github.io/` [Here](https://kamalsingh7290.github.io/)
 ![kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalsingh7290&theme=calm&show_icons=true)
 
-[![kamal's Streak](http://github-readme-streak-stats.herokuapp.com?user=kamalsingh7290&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)]
-(https://git.io/kamalsingh7290)
+[![kamal'sStreak(http://githubreadmestreakstats.herokuapp.comuser=kamalsingh7290&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D(https://git.io/kamalsingh7290)
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
