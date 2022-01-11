@@ -11,7 +11,7 @@
 
 <!-- TODO: Add last video link -->
 ```diff
- @@🧑‍💻 I’m currently Working with HiberNate and SPring BOOt @@
+ @@ 🧑‍💻 I’m currently Working with HiberNate and SPring BOOt @@
 - 💻 LEarning Andriod aPP Development
 - 🪟 HiGhLy inTRestEd in REtrofit AnD VollEY FRamEwork
 - 🤔 I’m LooKing FOr HelP In ANGUlarJS ANd ReacTJS
