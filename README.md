@@ -1,5 +1,5 @@
 ## Hi I'm KAmaL <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-<h1>kamal</h1>
+<h1 style='color:red;'>kamal</h1>
 <span style="color:orange;">Word up</span>
 # <span style='Color:red;'> I'm KAMAL SINGH a Full Stack Web Developer and App Developer.</span>
 ## I SPenD moST Of thE timE iN coDInG And CreaTINg outStanDING UI.  
