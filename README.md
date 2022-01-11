@@ -1,10 +1,5 @@
 ## Hi I'm KAmaL <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-```css
-  <p style="color:#FF0000";>Red paragraph text</p>
-```
-...
-<span style="color:orange;">Word up</span>
-![WhatsApp Image 2022-01-11 at 7 29 19 PM](https://user-images.githubusercontent.com/90319015/148984645-a073b8f7-9b93-45c2-b05e-91e6c33a7994.jpeg)
+<span style="color:blue">some *blue* text</span>.
 # <span style='Color:red;'> I'm KAMAL SINGH a Full Stack Web Developer and App Developer.</span>
 ## I SPenD moST Of thE timE iN coDInG And CreaTINg outStanDING UI.  
 :mailbox: Reach me out!
