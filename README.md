@@ -16,9 +16,10 @@
 - 🪟 HiGhLy inTRestEd in REtrofit AnD VollEY FRamEwork
 - 🤔 I’m LooKing FOr HelP In ANGUlarJS ANd ReacTJS
 - 👯‍♂️ I am LOOkinG To COllarborate in Servlet AnD JSP
-- 📫 How to reach me: kamalsingh7290@gmail.com,kamal.singh1998@gmail.com
+- 📫 How to reach me: kamalsingh7290@gmail.com/kamal.singh1998@gmail.com
 - 😄 Pronouns: Creater, KAmal, LotUS, Developer
 - ⚡ Fun fact: I play games and go to the GYM very often.
+## PortFolio Link : `https://kamalsingh7290.github.io/` [Here](https://kamalsingh7290.github.io/)
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -109,7 +110,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 - #### 👯 I’m looking to collaborate on Hibernate/Spring
 - #### 🤔 I’m looking for help with Angular/React/Node.js
 
-## PortFolio Link : `https://kamalsingh7290.github.io/` [Here](https://kamalsingh7290.github.io/)
+
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amantiwari8861&theme=calm&show_icons=true)
 
