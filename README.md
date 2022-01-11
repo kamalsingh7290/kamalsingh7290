@@ -61,7 +61,7 @@
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)&nbsp;&nbsp;
  <img alt="andriod" width="26px" src="https://img.icons8.com/color/96/000000/andriod.png">
-</code>](https://www.andriod.org/)&nbsp;&nbsp; 
+</code>](https://https://developer.android.com//)&nbsp;&nbsp; 
 
 
 
