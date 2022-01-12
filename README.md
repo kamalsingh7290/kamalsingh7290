@@ -30,7 +30,7 @@
 [![C++ Badge](https://img.shields.io/badge/-C++-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![VsCode Badge](https://img.shields.io/badge/-VsCode-blue?style=for-the-badge&labelColor=black&logo=java&logoColor=blue)](#)
 [![Eclipse Badge](https://img.shields.io/badge/-Eclipse-F0DB4F?style=for-the-badge&labelColor=black&logo=Eclipse&logoColor=F0DB4F)](#)
- [![NetBeans Badge](https://img.shields.io/badge/-NetBeans-3C873A?style=for-the-badge&labelColor=black&logo=NetBeans&logoColor=3C873A)](#) 
+ [![Apache Badge](https://img.shields.io/badge/-Apache-3C873A?style=for-the-badge&labelColor=black&logo=Apache&logoColor=3C873A)](#) 
 <!-- ### Tutorials
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
