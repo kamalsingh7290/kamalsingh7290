@@ -41,5 +41,25 @@
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: kamalsingh7290@gmai.com/kamal.sing1998@gmail.com
 #### Profile Visits 
-hlo
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kamalsingh7290.kamalsingh7290)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+I lOve CreaTiNg MinDBLoWinG GrphIcS UsER IntErFACe aNd WORKing WiTh BacKHAnd TeAm, EmERgeTiC ALL tHE TIme, FillED WIth ZEal and StroNGLy DevotEd aND DeDIcatED To My WORk!
+#### What is CoderOne?
+
+CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+
+
+
+#### Github Stats
+
+![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsingh7290&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
+
