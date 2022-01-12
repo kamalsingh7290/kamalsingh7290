@@ -36,7 +36,7 @@
 [![MySql Badge](https://img.shields.io/badge/-MySql-Pink?style=for-the-badge&labelColor=black&logo=MySql&logoColor=blue)](#)
 [![SQL Badge](https://img.shields.io/badge/-SQL-F0DB4F?style=for-the-badge&labelColor=black&logo=MySql&logoColor=F0DB4F)](#)
  [![Github Badge](https://img.shields.io/badge/-Github-3C873A?style=for-the-badge&labelColor=black&logo=github&logoColor=3C873A)](#) 
-
+[![hibernate Badge](https://img.shields.io/badge/-hibernate/spring-007acc?style=for-the-badge&labelColor=black&logo=Hibernate&logoColor=007acc)](#)
 <!-- ### Tutorials
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
