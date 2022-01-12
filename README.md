@@ -28,6 +28,8 @@
 [![Andriod Badge](https://img.shields.io/badge/-Andriod-brown?style=for-the-badge&labelColor=black&logo=node.js&logoColor=brown)](#)
 [![C-language Badge](https://img.shields.io/badge/-C_language-yellow?style=for-the-badge&labelColor=black&logo=node.js&logoColor=brown)](#)
 [![C++ Badge](https://img.shields.io/badge/-C++-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![VsCode Badge](https://img.shields.io/badge/-VsCode-blue?style=for-the-badge&labelColor=black&logo=java&logoColor=blue)](#)
+
 <!-- ### Tutorials
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
