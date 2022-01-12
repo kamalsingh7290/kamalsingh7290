@@ -50,12 +50,7 @@
 
 <br >
 
-I lOve CreaTiNg MinDBLoWinG GrphIcS UsER IntErFACe aNd WORKing WiTh BacKHAnd TeAm, EmERgeTiC ALL tHE TIme, FillED WIth ZEal and StroNGLy DevotEd aND DeDIcatED To My WORk!
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
-
+I lOve CreaTiNg MinDBLoWinG GrAphIcS UsER IntErFACe aNd WORKing WiTh BacKHAnd TeAm, EmERgeTiC ALL tHE TIme, FillED WIth ZEal and StroNGLy DevotEd aND DeDIcatED To My WORk!
 
 #### Github Stats
 
