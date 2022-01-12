@@ -15,7 +15,7 @@
 - 🪟 HiGhLy inTRestEd in REtrofit AnD VollEY FRamEwork
 - 🤔 I’m LooKing FOr HelP In ANGUlarJS ANd ReacTJS
 - 👯‍♂️ I am LOOkinG To COllarborate in Servlet AnD JSP
-- 📫 How to reach me: kamalsingh7290@gmail.com/kamal.sing1998@gmail.com
+- 📫 How to reach me: kamalsingh7290@gmail.com / kamal.sing1998@gmail.com
 - 😄 Pronouns: Creater, KAmal, LotUS, Developer
 - ⚡ Fun fact: I play games and go to the GYM very often.
 ## PortFolio Link : `https://kamalsingh7290.github.io/` [Here](https://kamalsingh7290.github.io/)
