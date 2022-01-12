@@ -33,6 +33,8 @@
  [![Apache Badge](https://img.shields.io/badge/-Apache_Netbeans-3C873A?style=for-the-badge&labelColor=black&logo=Apache&logoColor=3C873A)](#) 
 [![IntelliJ Badge](https://img.shields.io/badge/-IntelliJ-Pink?style=for-the-badge&labelColor=black&logo=Apache&logoColor=blue)](#)
 [![Web_Designing Badge](https://img.shields.io/badge/-WebDesigning-61DBFB?style=for-the-badge&labelColor=black&logo=Apache&logoColor=61DBFB)](#)
+[![MySql Badge](https://img.shields.io/badge/-MySql-Pink?style=for-the-badge&labelColor=black&logo=MySql&logoColor=blue)](#)
+
 <!-- ### Tutorials
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
