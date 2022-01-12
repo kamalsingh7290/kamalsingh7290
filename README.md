@@ -34,8 +34,8 @@
 [![IntelliJ Badge](https://img.shields.io/badge/-IntelliJ-Pink?style=for-the-badge&labelColor=black&logo=Apache&logoColor=blue)](#)
 [![Web_Designing Badge](https://img.shields.io/badge/-WebDesigning-61DBFB?style=for-the-badge&labelColor=black&logo=Apache&logoColor=61DBFB)](#)
 [![MySql Badge](https://img.shields.io/badge/-MySql-Pink?style=for-the-badge&labelColor=black&logo=MySql&logoColor=blue)](#)
-[![SQL Badge](https://img.shields.io/badge/-SQL-F0DB4F?style=for-the-badge&labelColor=black&logo=sql_server&logoColor=F0DB4F)](#)
-
+[![SQL Badge](https://img.shields.io/badge/-SQL-F0DB4F?style=for-the-badge&labelColor=black&logo=MySql&logoColor=F0DB4F)](#)
+ [![Github Badge](https://img.shields.io/badge/-Github-3C873A?style=for-the-badge&labelColor=black&logo=github&logoColor=3C873A)](#) 
 
 <!-- ### Tutorials
 
