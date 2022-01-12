@@ -37,8 +37,6 @@
 [![SQL Badge](https://img.shields.io/badge/-SQL-F0DB4F?style=for-the-badge&labelColor=black&logo=MySql&logoColor=F0DB4F)](#)
  [![Github Badge](https://img.shields.io/badge/-Github-3C873A?style=for-the-badge&labelColor=black&logo=github&logoColor=3C873A)](#) 
 [![hibernate Badge](https://img.shields.io/badge/-hibernate/spring-007acc?style=for-the-badge&labelColor=black&logo=Hibernate&logoColor=007acc)](#)
-<!-- ### Tutorials
-
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: kamalsingh7290@gmai.com/kamal.sing1998@gmail.com
