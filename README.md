@@ -15,7 +15,7 @@
 - 🪟 HiGhLy inTRestEd in REtrofit AnD VollEY FRamEwork
 - 🤔 I’m LooKing FOr HelP In ANGUlarJS ANd ReacTJS
 - 👯‍♂️ I am LOOkinG To COllarborate in Servlet AnD JSP
-- 📫 How to reach me: kamalsingh7290@gmail.com/kamal.singh1998@gmail.com
+- 📫 How to reach me: kamalsingh7290@gmail.com/kamal.sing1998@gmail.com
 - 😄 Pronouns: Creater, KAmal, LotUS, Developer
 - ⚡ Fun fact: I play games and go to the GYM very often.
 ## PortFolio Link : `https://kamalsingh7290.github.io/` [Here](https://kamalsingh7290.github.io/)
@@ -23,7 +23,7 @@
 [![AngularJS Badge](https://img.shields.io/badge/-AngularJS-red?style=for-the-badge&labelColor=yellow&logo=AngularJs&logoColor=grey)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Java Badge](https://img.shields.io/badge/-Java-blue?style=for-the-badge&labelColor=black&logo=java&logoColor=blue)](#)
-[![Java Badge](https://img.shields.io/badge/-Servlet-orange?style=for-the-badge&labelColor=black&logo=java&logoColor=orange](#)
+[![Java Badge](https://img.shields.io/badge/-Servlet-blue?style=for-the-badge&labelColor=black&logo=java&logoColor=orange](#)
 [![Java Badge](https://img.shields.io/badge/-JSP-Pink?style=for-the-badge&labelColor=black&logo=java&logoColor=blue)](#)
 <!-- ### Tutorials
 
