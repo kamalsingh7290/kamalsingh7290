@@ -32,7 +32,7 @@
 [![Eclipse Badge](https://img.shields.io/badge/-Eclipse-F0DB4F?style=for-the-badge&labelColor=black&logo=Eclipse&logoColor=F0DB4F)](#)
  [![Apache Badge](https://img.shields.io/badge/-Apache_Netbeans-3C873A?style=for-the-badge&labelColor=black&logo=Apache&logoColor=3C873A)](#) 
 [![IntelliJ Badge](https://img.shields.io/badge/-IntelliJ-Pink?style=for-the-badge&labelColor=black&logo=Apache&logoColor=blue)](#)
-[![Web_Designing Badge](https://img.shields.io/badge/-WebDesigning-61DBFB?style=for-the-badge&labelColor=black&logo=css&logoColor=61DBFB)](#)
+[![Web_Designing Badge](https://img.shields.io/badge/-WebDesigning-61DBFB?style=for-the-badge&labelColor=black&logo=web&logoColor=61DBFB)](#)
 <!-- ### Tutorials
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
