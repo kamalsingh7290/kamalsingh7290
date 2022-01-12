@@ -38,8 +38,7 @@
  [![Github Badge](https://img.shields.io/badge/-Github-3C873A?style=for-the-badge&labelColor=black&logo=github&logoColor=3C873A)](#) 
 [![hibernate Badge](https://img.shields.io/badge/-hibernate/spring-007acc?style=for-the-badge&labelColor=black&logo=Hibernate&logoColor=007acc)](#)
 
-- :paperclip:- [My Resume/CV](https://github.com/kamalsingh7290/kamalsingh7290/blob/main/CV-converted.pdf)
-- :email: kamalsingh7290@gmai.com / kamal.sing1998@gmail.com
+
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kamalsingh7290.kamalsingh7290)
 
@@ -55,6 +54,7 @@ I lOve CreaTiNg MinDBLoWinG GrAphIcS UsER IntErFACe aNd WORKing WiTh BacKHAnd Te
 #### Github Stats
 
 ![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsingh7290&count_private=true&theme=tokyonight&hide=contribs,prs)
-
+- :paperclip:- [My Resume/CV](https://github.com/kamalsingh7290/kamalsingh7290/blob/main/CV-converted.pdf)
+- :email: kamalsingh7290@gmail.com / kamal.sing1998@gmail.com
 </details>
 
