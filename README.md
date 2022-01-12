@@ -26,7 +26,7 @@
 [![JSP Badge](https://img.shields.io/badge/-JSP-Pink?style=for-the-badge&labelColor=black&logo=java&logoColor=blue)](#)
 [![Servlet Badge](https://img.shields.io/badge/-Servlet-Pink?style=for-the-badge&labelColor=black&logo=java&logoColor=blue)](#)
 [![Andriod Badge](https://img.shields.io/badge/-Andriod-brown?style=for-the-badge&labelColor=black&logo=node.js&logoColor=brown)](#)
-[![C Badge](https://img.shields.io//-C_language-yellow?style=for-the-badge&labelColor=black&logo=node.js&logoColor=brown)](#)
+[![C-language Badge](https://img.shields.io/badge/-C_language-yellow?style=for-the-badge&labelColor=black&logo=node.js&logoColor=brown)](#)
 
 <!-- ### Tutorials
 
