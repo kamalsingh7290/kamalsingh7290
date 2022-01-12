@@ -42,8 +42,6 @@
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: kamalsingh7290@gmai.com/kamal.sing1998@gmail.com
-
-
 #### Profile Visits 
-
+hlo
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kamalsingh7290.kamalsingh7290)
