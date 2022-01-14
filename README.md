@@ -49,7 +49,7 @@
 
 <br >
 
-I lOve CreaTiNg MinDBLoWinG GrAphIcS UsER IntErFACe aNd WORKing WiTh BacKHAnd TeAm, EmERgeTiC ALL tHE TIme, FillED WIth ZEal and StroNGLy DevotEd aND DeDIcatED To My WORk!
+I lOve CreaTiNg MinDBLoWinG GrAphIcS UsER IntErFACe aNd WORKing WiTh BacKHAnd TeAm, EnERgeTiC ALL tHE TIme, FillED WIth ZEal and StroNGLy DevotEd aND DeDIcatED To My WORk!
 
 #### Github Stats
 
