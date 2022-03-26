@@ -54,7 +54,7 @@ I lOve CreaTiNg MinDBLoWinG GrAphIcS UsER IntErFACe aNd WORKing WiTh BacKHAnd Te
 #### Github Stats
 
 ![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsingh7290&count_private=true&theme=tokyonight&hide=contribs,prs)
-- :paperclip:- [My Resume/CV](https://github.com/kamalsingh7290/kamalsingh7290/blob/main/CV-converted.pdf)
+- :paperclip:- [My Resume/CV](https://github.com/kamalsingh7290/kamalsingh7290/blob/main/CurriculamVitae.pdf)
 - :email: kamalsingh7290@gmail.com / kamal.sing1998@gmail.com
 </details>
 
